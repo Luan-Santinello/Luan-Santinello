@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou Felippe Nobre de Souza, uma pessoa que ama tecnologia e que sempre busca se aprimorar no mercado de tecnologia</p>
+<p align="left">Sou Luan Santinello, estou começando na area de tecnologia, cursando ADS na Anhanguera</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ce6efb21-adac-4156-99a4-e1a9a92f0f35">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/229eb044-c74d-48ec-8595-4e8cc6011524">
 
 
 <h3 align="left">Connect with me!</h3>
@@ -48,7 +48,8 @@
    
  
 
-  
+ 
+
   
   
 
